@@ -289,6 +289,6 @@ Realistic planned enhancements:
 ---
 
 ## 20. Author
-- **Project Author**: B.Tech CSE / AIML Major Project Team
-- **Institution / Affiliation**: Computer Science & Artificial Intelligence Department
+- **Project Author**: Shishant Yadav BTech CSE(aiml)
+- **Institution / Affiliation**: Anand engineering college 
 - **License**: [MIT License](LICENSE)
